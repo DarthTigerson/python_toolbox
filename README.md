@@ -3,13 +3,13 @@ python_toolbox will contain a lot of modules variying from OS controls to string
 
 ## Packages Available
 Functions OS
-> os_clear_screen
-> os_delay
-> os_delete_directory
-> os_delete_file
-> os_get_date_time
-> os_read_file
-> os_write_file
+* os_clear_screen
+* os_delay
+* os_delete_directory
+* os_delete_file
+* os_get_date_time
+* os_read_file
+* os_write_file
 
 ## Current Plans
 Functions Text
